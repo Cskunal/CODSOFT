@@ -6,7 +6,7 @@ Welcome to my repository for the **CodSoft Internship** focused on **Python Prog
 
 🙋‍♂️ About Me
 Name: Kunal
-GitHub: https://github.com/Cskunal \n
+GitHub: https://github.com/Cskunal
 LinkedIn: https://www.linkedin.com/in/kunal-rajpoot-9263ba307/
 
 📜 License
